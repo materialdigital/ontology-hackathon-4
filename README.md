@@ -54,11 +54,11 @@ Registration for the main hackathon is available through the MaterialDigital eve
 
 ## Agenda and Collaborative Protocol
 
-The agenda and collaborative workshop protocol are maintained as a live HackMD document. Participants can use it to follow the current agenda and jointly document working groups, discussions, decisions, results, deliverables, and follow-up activities:
+The agenda and collaborative workshop protocol are maintained as a HackMD document. Participants can use it to follow the current agenda and jointly document working groups, discussions, decisions, results, deliverables, and follow-up activities:
 
-[Open the live agenda and protocol on HackMD](https://hackmd.io/@nd_ksvfTTISd9bwYNERWLw/r1xOg1ZjMl/edit)
+[Open the agenda and protocol on HackMD](https://hackmd.io/@nd_ksvfTTISd9bwYNERWLw/r1xOg1ZjMl/)
 
-A periodically updated snapshot of the protocol and further public resources are also collected in this repository.
+The protocol and further public resources are also collected in this repository for long-term use.
 
 ## Website
 
@@ -73,7 +73,7 @@ Further information, downloads, and links are available on the bilingual event w
 - [PMD Core Ontology repository](https://github.com/materialdigital/core-ontology/)
 - [BAM website](https://bam.de/en/)
 - [Hackathon registration](https://www.material-digital.de/event/PMDco_Hackathon_IV)
-- [Live HackMD agenda and protocol](https://hackmd.io/@nd_ksvfTTISd9bwYNERWLw/r1xOg1ZjMl/edit)
+- [HackMD agenda and protocol](https://hackmd.io/@nd_ksvfTTISd9bwYNERWLw/r1xOg1ZjMl/)
 
 ## Contributions and Results
 
