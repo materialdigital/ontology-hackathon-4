@@ -88,7 +88,7 @@ title: PMDco_Hackathon_IV_Agenda_and_Protocol.md
 ### Topic 7: Microscopy ontology (MO) linked to Microstructure Ontology
 > Aligning Microscopy Ontology (MO) with new PMDco (3.x) version, particularly with respect to concepts represented in microstructure ontology.
 
-### Beginner's course (by Dr. Khashayar Razghandi)
+### Beginner's course
 > Introducing beginners to ontologies and semantic representations in general, and to PMDco as one semantic anchor in the field of materials science and engineering (MSE). Look and Feel in Protégé.
 
 ## Organization of working groups
@@ -194,7 +194,7 @@ highest level hierarchy by what disjoint:
     - 2nd example: sementite: u knwo where your iron is where your iron is, hard ot deifne in ontolgoy mathematically so deifned it vaguely
     - !! important thing we introduced: "Microconstituent".. e.g there are microconsitutent in iron, everyone knows it, but define it axumatically is chanllenge. 
     - 3rd example Pearlite !using  microconstituent!:
-        - ![Screenshot 2026-11-19 111452](https://hackmd.io/_uploads/H1x53H2RMl.png)
+        - ![Microstructure example model](https://github.com/materialdigital/ontology-hackathon-4/blob/main/resources/results/group_sessions/Day_1_Group_3_Microstructure_example.jpeg?raw=true)
         - why this? --> some phases (pearlite and marteniste) depends on: process, eg. coolign rate.. depend on constituents.. and how these consitutents are organised... 
         - so peearlite: has some pearlite blcok (ferous metal microsconsitutent) --> for pearlite block we needed to define pearlite colony: sub: of lamellar colony --> pearlite colony: has part some ferite and lamelae and has part cementite and some lamelae 
         - so, we define, what constituents are there, how they are organised
